@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/back up.jpeg</file>
+        <file>images/background.jpg</file>
+        <file>images/pause.jpeg</file>
+        <file>images/play.jpeg</file>
+        <file>images/proceed.jpeg</file>
+        <file>images/stop.jpeg</file>
+        <file>images/the former.jpeg</file>
+        <file>images/the latter.jpeg</file>
+        <file>images/volume.jpeg</file>
+        <file>images/full screen.jpeg</file>
+        <file>images/list.jpeg</file>
+        <file>images/sequential.jpeg</file>
+        <file>images/bluebird.png</file>
+        <file>images/bluebird-ico.ico</file>
+        <file>images/history.png</file>
+        <file>images/kudo.png</file>
+        <file>images/list.png</file>
+        <file>images/nextone.png</file>
+        <file>images/openfile.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/play2.png</file>
+        <file>images/player.jpeg</file>
+        <file>images/preone.png</file>
+        <file>images/random.png</file>
+        <file>images/sequence.png</file>
+        <file>images/silence.png</file>
+        <file>images/unkudo.png</file>
+        <file>images/videoplay.png</file>
+        <file>images/voice.png</file>
+    </qresource>
+</RCC>
